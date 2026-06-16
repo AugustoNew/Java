@@ -3,7 +3,8 @@ package helloworld;
 public class HelloWorld {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        if(1 == 1){
+        System.out.println("Um igual a um");
+        }
     }
-    
 }
